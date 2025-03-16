@@ -1,5 +1,5 @@
 # Convert
-Some conversion operations in C++
+Some conversion operations in C++ (Windows OS)
 
 - - -
 This program will define ```std::_tstring```. If you define a ```UNICODE``` macro, set ```std::_tstring``` is ```std::wstring```。 Otherwise, set ```std::_tstring``` is ```std::string```.
